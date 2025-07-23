@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:26:16 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q11\FSM_TwoDetector_tb.vcd"
+[dumpfile_mtime] "Sat Oct 05 19:27:09 2024"
+[dumpfile_size] 2348
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q11\FSM_TwoDetector.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.491306 135000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+FSM_TwoDetector_tb.CLK
+FSM_TwoDetector_tb.RESET
+FSM_TwoDetector_tb.ONE
+FSM_TwoDetector_tb.ZERO
+@29
+FSM_TwoDetector_tb.OUT
+[pattern_trace] 1
+[pattern_trace] 0

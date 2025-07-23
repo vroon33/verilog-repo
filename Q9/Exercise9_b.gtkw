@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:22:21 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q9\Exercise9_btb.vcd"
+[dumpfile_mtime] "Sat Oct 05 03:17:10 2024"
+[dumpfile_size] 1847
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q9\Exercise9_b.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.970493 81 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+Exercise9_tb.CLK
+Exercise9_tb.CLR
+@29
+Exercise9_tb.A
+@28
+Exercise9_tb.B
+[pattern_trace] 1
+[pattern_trace] 0

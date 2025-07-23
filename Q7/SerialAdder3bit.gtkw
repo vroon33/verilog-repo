@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:44:46 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q7\SerialAdder3bit_tb.vcd"
+[dumpfile_mtime] "Sun Oct 06 04:43:04 2024"
+[dumpfile_size] 1161
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q7\SerialAdder3bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 108 -30
+*-14.911436 94100 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] SerialAdder3bit_tb.
+[sst_width] 197
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+SerialAdder3bit_tb.uut.clk
+SerialAdder3bit_tb.uut.outA[2:0]
+@29
+SerialAdder3bit_tb.uut.outB[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

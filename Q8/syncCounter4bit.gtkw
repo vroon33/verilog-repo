@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:32:56 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\syncCounter4bit_tb.vcd"
+[dumpfile_mtime] "Fri Oct 04 16:23:17 2024"
+[dumpfile_size] 2893
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\syncCounter4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-15.641451 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+test_syncCounter4bit.CLK
+test_syncCounter4bit.RST
+@23
+test_syncCounter4bit.Q[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

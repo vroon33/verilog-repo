@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:00:19 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\DEMUX\demux1to8_2tb.vcd"
+[dumpfile_mtime] "Sun Oct 06 03:59:45 2024"
+[dumpfile_size] 3253
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\DEMUX\demux1to8_2.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.580310 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+demux1to8_2tb.I
+demux1to8_2tb.S2
+demux1to8_2tb.S1
+demux1to8_2tb.S0
+demux1to8_2tb.Y0
+demux1to8_2tb.Y1
+demux1to8_2tb.Y2
+demux1to8_2tb.Y3
+demux1to8_2tb.Y4
+demux1to8_2tb.Y5
+demux1to8_2tb.Y6
+@29
+demux1to8_2tb.Y7
+[pattern_trace] 1
+[pattern_trace] 0

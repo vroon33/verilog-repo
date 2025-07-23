@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 03:31:44 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\DECODER\decoder2to4_tb.vcd"
+[dumpfile_mtime] "Wed Oct 02 10:36:54 2024"
+[dumpfile_size] 761
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\DECODER\decoder2to4.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 208 324
+*-4.589243 74 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@29
+decoder2to4_tb.E
+@28
+decoder2to4_tb.A0
+decoder2to4_tb.A1
+decoder2to4_tb.Y0
+decoder2to4_tb.Y1
+decoder2to4_tb.Y2
+decoder2to4_tb.Y3
+[pattern_trace] 1
+[pattern_trace] 0

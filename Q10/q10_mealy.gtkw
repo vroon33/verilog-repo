@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:25:10 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q10\q10_mealy_tb.vcd"
+[dumpfile_mtime] "Sat Oct 05 12:52:55 2024"
+[dumpfile_size] 1097
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q10\q10_mealy.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-14.546921 3200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] q10_mealy_tb.
+[sst_width] 42
+[signals_width] 171
+[sst_expanded] 0
+[sst_vpaned_height] 143
+@28
+q10_mealy_tb.CLK
+q10_mealy_tb.RST
+q10_mealy_tb.X
+q10_mealy_tb.Y
+@29
+q10_mealy_tb.uut.curr_state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 06:49:11 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q6\UnivShiftReg4bit_tb.vcd"
+[dumpfile_mtime] "Sun Oct 06 06:05:18 2024"
+[dumpfile_size] 3658
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q6\UnivShiftReg4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-14.955569 158000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 154
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+UnivShiftReg4bit_tb.CLK
+UnivShiftReg4bit_tb.Clear_b
+@200
+-
+@28
+UnivShiftReg4bit_tb.s[1:0]
+@200
+-
+@22
+UnivShiftReg4bit_tb.I[3:0]
+@200
+-
+@28
+UnivShiftReg4bit_tb.serial_left
+@200
+-
+@28
+UnivShiftReg4bit_tb.serial_right
+@200
+-
+@22
+UnivShiftReg4bit_tb.A[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:18:29 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\fulladder1bit_tb.vcd"
+[dumpfile_mtime] "Wed Oct 02 16:35:22 2024"
+[dumpfile_size] 700
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\fulladder1bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-3.632902 33 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 143
+@28
+fulladder1bit_tb.B
+fulladder1bit_tb.A
+fulladder1bit_tb.Cin
+fulladder1bit_tb.Cout
+@29
+fulladder1bit_tb.S
+[pattern_trace] 1
+[pattern_trace] 0

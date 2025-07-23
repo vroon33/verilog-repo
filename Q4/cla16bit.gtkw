@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:16:42 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\cla16bit_tb.vcd"
+[dumpfile_mtime] "Thu Oct 03 10:06:26 2024"
+[dumpfile_size] 2185
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\cla16bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-2.641711 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@22
+cla16bit_tb.A[15:0]
+cla16bit_tb.B[15:0]
+@28
+cla16bit_tb.Cin
+@22
+cla16bit_tb.S[15:0]
+@28
+cla16bit_tb.Cout
+[pattern_trace] 1
+[pattern_trace] 0

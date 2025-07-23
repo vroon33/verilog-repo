@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Oct 01 06:18:07 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q2\problem2b_tb.vcd"
+[dumpfile_mtime] "Tue Oct 01 05:20:47 2024"
+[dumpfile_size] 1092
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q2\problem2b.gtkw"
+[timestart] 0
+[size] 1536 889
+[pos] -35 -35
+*-6.483013 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 254
+@28
+problem2b_tb.A
+problem2b_tb.B
+problem2b_tb.C
+problem2b_tb.D
+problem2b_tb.E
+problem2b_tb.F
+problem2b_tb.Y
+[pattern_trace] 1
+[pattern_trace] 0

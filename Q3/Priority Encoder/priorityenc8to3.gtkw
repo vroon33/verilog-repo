@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:10:40 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\PRIORITY ENCODER\priorityenc8to3_tb.vcd"
+[dumpfile_mtime] "Wed Oct 02 16:19:00 2024"
+[dumpfile_size] 15925
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\PRIORITY ENCODER\priorityenc8to3.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-10.571604 2570 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@29
+priorityenc8to3_tb.E
+@28
+priorityenc8to3_tb.D0
+priorityenc8to3_tb.D1
+priorityenc8to3_tb.D2
+priorityenc8to3_tb.D3
+priorityenc8to3_tb.D4
+priorityenc8to3_tb.D5
+priorityenc8to3_tb.D6
+priorityenc8to3_tb.D7
+priorityenc8to3_tb.Y0
+priorityenc8to3_tb.Y1
+priorityenc8to3_tb.Y2
+priorityenc8to3_tb.V
+[pattern_trace] 1
+[pattern_trace] 0

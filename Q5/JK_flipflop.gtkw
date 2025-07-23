@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:54:57 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q5\JK_flipflop_tb.vcd"
+[dumpfile_mtime] "Thu Oct 03 16:43:55 2024"
+[dumpfile_size] 871
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q5\JK_flipflop.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.749239 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+JK_flipflop_tb.CLK
+JK_flipflop_tb.J
+JK_flipflop_tb.K
+@29
+JK_flipflop_tb.Q
+[pattern_trace] 1
+[pattern_trace] 0

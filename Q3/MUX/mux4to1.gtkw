@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Oct 01 11:10:47 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\mux4to1.vcd"
+[dumpfile_mtime] "Tue Oct 01 11:04:02 2024"
+[dumpfile_size] 2372
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q3\mux4to1.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -358 -138
+*-7.000000 340 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@200
+-
+@28
+mux4to1_tb.I1
+@200
+-
+@28
+mux4to1_tb.I2
+@200
+-
+@28
+mux4to1_tb.I3
+@200
+-
+@28
+mux4to1_tb.I4
+@200
+-
+@28
+mux4to1_tb.S2
+@200
+-
+@29
+mux4to1_tb.S1
+@200
+-
+@28
+mux4to1_tb.Y
+[pattern_trace] 1
+[pattern_trace] 0

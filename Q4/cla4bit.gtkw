@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:15:55 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\cla4bit_tb.vcd"
+[dumpfile_mtime] "Thu Oct 03 09:49:44 2024"
+[dumpfile_size] 803
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\cla4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-2.641711 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 91
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@22
+cla4bit_tb.A[3:0]
+cla4bit_tb.B[3:0]
+@28
+cla4bit_tb.Cin
+@22
+cla4bit_tb.S[3:0]
+@29
+cla4bit_tb.Cout
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:13:27 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\carryripple4bit_tb.vcd"
+[dumpfile_mtime] "Wed Oct 02 17:38:33 2024"
+[dumpfile_size] 1728
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q4\carryripple4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-3.921819 43 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 93
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@22
+carryripple4bit_tb.A[3:0]
+carryripple4bit_tb.B[3:0]
+@28
+carryripple4bit_tb.Cin
+@22
+carryripple4bit_tb.S[3:0]
+@29
+carryripple4bit_tb.Cout
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:31:46 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\RippleCounter4bit_tb.vcd"
+[dumpfile_mtime] "Sun Oct 06 04:31:07 2024"
+[dumpfile_size] 3772
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\RippleCounter4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.541613 284700 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+test_RippleCounter4bit.CLK
+test_RippleCounter4bit.CLR
+@22
+test_RippleCounter4bit.A[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

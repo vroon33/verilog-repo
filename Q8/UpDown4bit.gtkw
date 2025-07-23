@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Oct 06 04:39:04 2024
+[*]
+[dumpfile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\UpDown4bit_tb.vcd"
+[dumpfile_mtime] "Sun Oct 06 04:38:25 2024"
+[dumpfile_size] 4403
+[savefile] "C:\Users\varun\Documents\IIITH Folders\Sem3\VLSI Design\Verilog\Q8\UpDown4bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.458357 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+test_UpDown4bit.CLK
+test_UpDown4bit.RST
+test_UpDown4bit.UP
+test_UpDown4bit.DOWN
+@23
+test_UpDown4bit.Q[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
